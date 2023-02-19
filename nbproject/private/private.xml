@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/models/FizickiServer.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/models/PravnoLice.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/models/FizickoLice.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/web/dodajVirtuelniServer.jsp</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/servlets/DodajFizickoLServlet.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/web/detaljnijeOServerima.jsp</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/web/listaLica.jsp</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/models/VirtuelniServer.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/servlets/DodajVirtuelniServerServlet.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/servlets/DodajFizickiServerServlet.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/src/java/servlets/DetaljnijeOServerimaServlet.java</file>
+            <file>file:/C:/Users/Uros/Documents/NetBeansProjects/Projekat/web/dodajFizickiServer.jsp</file>
+        </group>
+    </open-files>
+</project-private>
